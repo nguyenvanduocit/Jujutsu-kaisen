@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "00d3a98e25c9a9c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "796b015adcfc4f6e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Tam đại gia tộc là ai?.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53cbf5899a837efd",
+    "type": "split",
+    "children": [
+      {
+        "id": "efae83b782758398",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f26216f87c941aee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b98fea18df7239b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "giáo viên",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b77a03cdefb37ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "6301ed5210f38ee0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76eac143fc8c32ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tam đại gia tộc là ai?.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "796b015adcfc4f6e",
+  "lastOpenFiles": [
+    "Tam đại gia tộc là ai?.md",
+    "Gia tộc Kamo.md",
+    "Gakuganji Yoshinobu.md",
+    "Kế hoạch chiêu mộ sakuna.md",
+    "Itadori Yuuji.md",
+    "kế hoạch lấy 6 ngón tay của jujutsu.md",
+    "Getou.md",
+    "Nguyền lực.md",
+    "Tư tưởng của Getou.md",
+    "Tình bạn của Gojo và Geto.md"
+  ]
+}

@@ -1,0 +1,1 @@
+Chính là cách thức để chuyển hóa [[Nguyền lực|Nguyền lực]].

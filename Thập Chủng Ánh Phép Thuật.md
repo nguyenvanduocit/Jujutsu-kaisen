@@ -1,0 +1,1 @@
+là một loại [[Nguyền thuật]] dùng bóng để tạo ra [[Thức Thần]]

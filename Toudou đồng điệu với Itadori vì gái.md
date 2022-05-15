@@ -1,0 +1,1 @@
+Trong [[hội giao lưu hai trường]], [[Toudou Aoi]] đã đụng độ với [[Itadori Yuuji]] và cảm thấy đồng điệu vì gu gái.

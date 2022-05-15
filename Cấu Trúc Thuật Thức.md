@@ -1,0 +1,1 @@
+Là một loại [[Nguyền thuật]] giúp tạo nên vật chất từ hư vô.

@@ -1,0 +1,1 @@
+[[Gojo Satoru]] và [[Getou]] là bạn thân của nhau, Nhưng Gojo thì mạnh hơn Getou.

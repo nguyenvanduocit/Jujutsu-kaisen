@@ -1,0 +1,1 @@
+Trong [[kế hoạch lấy 6 ngón tay của jujutsu]]. [[Hanami]] đã nói là nó muốn bảo vệ môi trường vì sự phá hoại của con người. Nên nó muốn thanh tẩy loài người.
